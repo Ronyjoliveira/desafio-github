@@ -1,7 +1,7 @@
-<h1> We Care and Wide coverage location </h1>
+<h1> We Care  </h1>
 <br>
 <br>
-<h2> projetos que aprendir no <a href="https://aulas.devclub.com.br/m/home">dev club</a></h2>
+<h2> projeto que aprendir no <a href="https://aulas.devclub.com.br/m/home">dev club</a></h2>
 <br>
 <p> As tecnologias utilizadas foram HTML e CSS
 <br>
